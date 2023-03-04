@@ -21,7 +21,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 ## APK build version downloader:
 [APK](https://apps.evozi.com/apk-downloader/)
 
-## IDE Used:
+## Technology Used:
 - Intelji Idea
 - Appium
 - Android Studio
