@@ -34,11 +34,13 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - Java
 ## How to run this project:
 - Clone this project
+- Turn on Developer Options on your android phone
 - Open Android Studio and Open the APK file
-- Set required configuration
-- Execute command in cmd for checking the connectivity with emulator : adb devices
+- Connect your android phone with USB cable/ Create an emulated virtual device via Android Studio and run it.
 - Open Appium Server with following command: appium -p 4723
 - Open Appium Inspector
 - Open Intellij Idea
 - Execute the following command into the terminal: gradle clean test
 - For generating Allure Report use these commands: allure generate allure-results --clean -o allure-report and allure serve allure-results
+
+
