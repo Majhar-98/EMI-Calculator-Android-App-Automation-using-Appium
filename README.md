@@ -1,6 +1,6 @@
 # EMI-Calculator-Android-App-Automation-using-Appium
 
-## ests
+## Tests
 If an user take loan (?) tk from a bank with interest of (?)% and want to give (?) tk per month as EMI (installment) and processing fee (?)%, how many time period it will take to complete the loan? Take the values from dataset and assert the monthly EMI, total interest, processing fee amount and total payment from the result view.
 
 For solve this question, create a dataset using following values:
@@ -15,10 +15,10 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 
 - 50000 | 10 | 1000 | 5% | 1000 | 14949.12 | 2500 | 64949.12 | 5 | 5
 
-## App Name
+## App Name:
 [Calculator](https://play.google.com/store/apps/details?id=com.continuum)
 
-## APK build version downloader
+## APK build version downloader:
 [APK](https://apps.evozi.com/apk-downloader/)
 
 ## IDE Used:
@@ -30,7 +30,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - Install Appium
 - Install jdk or any LTS version
 - Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME Stable internet connection
-## Langueges
+## Langueges:
 - Java
 ## How to run this project:
 - Clone this project
