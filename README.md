@@ -49,9 +49,8 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 ![image](https://user-images.githubusercontent.com/123467715/222914584-478d08e7-2e92-4a1d-9b0c-d0a01512f7b2.png)
 
 ![image](https://user-images.githubusercontent.com/123467715/222914610-7ee6d6f9-a8b8-40e0-b94b-4c352296c401.png)
-
 ## Project Video:
-[Youtube](https://www.youtube.com/watch?v=kGPE8W_bw7Q)
+- [Youtube](https://www.youtube.com/watch?v=kGPE8W_bw7Q)
 
 
 
