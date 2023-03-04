@@ -16,7 +16,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - 50000 | 10 | 1000 | 5% | 1000 | 14949.12 | 2500 | 64949.12 | 5 | 5
 
 ## App Name:
-[Calculator](https://play.google.com/store/apps/details?id=com.continuum)
+[EMI Calculator](https://play.google.com/store/apps/details?id=com.continuum)
 
 ## APK build version downloader:
 [APK](https://apps.evozi.com/apk-downloader/)
