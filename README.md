@@ -33,7 +33,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - 
 ## Langueges:
 - Java
-- 
+
 ## How to run this project:
 - Clone this project
 - Turn on Developer Options on your android phone
@@ -44,5 +44,11 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - Open Intellij Idea
 - Execute the following command into the terminal: gradle clean test
 - For generating Allure Report use these commands: allure generate allure-results --clean -o allure-report and allure serve allure-results
+
+## Allure Report:
+![image](https://user-images.githubusercontent.com/123467715/222914584-478d08e7-2e92-4a1d-9b0c-d0a01512f7b2.png)
+![image](https://user-images.githubusercontent.com/123467715/222914610-7ee6d6f9-a8b8-40e0-b94b-4c352296c401.png)
+
+
 
 
