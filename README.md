@@ -14,3 +14,6 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 - 250000 | 7 | 8000 | 1.5% | 8000 | 26804.51 | 3750 | 276804.51 | 2 | 11
 
 - 50000 | 10 | 1000 | 5% | 1000 | 14949.12 | 2500 | 64949.12 | 5 | 5
+
+## App Name
+[Calculator](https://play.google.com/store/apps/details?id=com.continuum)
